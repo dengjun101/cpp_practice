@@ -3,3 +3,4 @@ project(cpp_practice)
 
 add_subdirectory(src/api_design)
 add_subdirectory(src/class_design)
+add_subdirectory(src/template)
